@@ -16,7 +16,7 @@ This is intended to cover much more use cases as web3 for Ethereum or [EIP-0012]
 
 Cardano is not Ethereum. Since 2021 **GameChanger Wallet** was committed to find natural design patterns that would make sense for an eUTXO model blockchain like Cardano, slow epic work that had no other prior references on blockchain space and had to be solved from zero.
 
-Cardano have not seen yet it's full potential. Desktop defi-only applications are only a glimpse of what we can be doing out there. The problem: The feature-limited design of overall wallet + dapp connector ecosystem we currently have is not allowing us to look further. We push harder and harder to stablish by force of standards, rules and patches that are harming our exponential growth. With our flexible solution, a dapp or a power user can connect all these Cardano wallets to all these audiences with the same JSON code:
+Cardano have not seen yet it's full potential. Desktop defi-only applications are only a glimpse of what we can be doing out there. The problem: The feature-limited design of overall wallet + dapp connector ecosystem we currently have is not allowing us to look further. We push harder and harder to establish by force of standards, rules and patches that are harming our exponential growth. With our flexible solution, a dapp or a power user can connect all these Cardano wallets to all these audiences with the same JSON code:
 
 Wallets:
 - 12,15,24 seed phrases (Mnemonic)
